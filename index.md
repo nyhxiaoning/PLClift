@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to PLC
 
-You can use the [editor on GitHub](https://github.com/nyhxiaoning/PLClift/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+###虽然这个项目和前端太大关系，当然其中的流程图和一些图表的设计还是和前端的UI设计相关，但是确是让我进入编程大门的一个契机，通过这个编程大赛，自己突然对于计算机的逻辑控制和程序设计有了很大的兴趣，同时自己也亲身体验到编程的快乐，以及编程对于生活的巨大意义，尤其是程序之间的闭环逻辑。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##2016/05 -- 2016/09：PLC的电梯运行模拟检测##
 
-### Markdown
+- 软件环境：windows 7以上
+- 硬件环境：i5-4200 4G内存+1TG硬盘+百兆兆网卡+百兆局域网
+- 开发工具： 西门子博图软件
+- 责任描述：队长
+- 项目描述：利用PLC s300对电梯进行调控和操作，利用梯形图逻辑模拟出各种状况，并且利用各种状况再排除找出问题，病利用不同方案解决不同问题。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nyhxiaoning/PLClift/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
